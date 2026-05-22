@@ -1,0 +1,41 @@
+游泳背景：https://i.meee.com.tw/F9HcKuZ.png
+單車背景：https://i.meee.com.tw/XYaYEI4.png
+跑步背景：https://i.meee.com.tw/iD4Ypmv.png
+
+游泳玩家：https://i.meee.com.tw/k5wZQ9i.png
+單車玩家：https://i.meee.com.tw/IZKwPkb.png
+跑步玩家：https://i.meee.com.tw/RMOAXv2.png
+
+魚：https://i.meee.com.tw/MLBrIqP.png
+海草：https://i.meee.com.tw/EG4JAz1.png
+旗幟：https://i.meee.com.tw/ZKMORDB.png
+路障：https://i.meee.com.tw/SHDLVze.png
+小豬：https://i.meee.com.tw/XFCAKj2.png
+阿嬤：https://i.meee.com.tw/E4GwqBd.png
+
+開頭畫面背景：https://i.meee.com.tw/TjEdxlF.png
+結尾蛋糕：https://i.meee.com.tw/42xdybR.png
+闖關失敗JumpScared：https://i.meee.com.tw/5sYl7fd.png
+
+
+－－－－－
+
+點選START按鈕的音效
+https://tnosite.com/wp-content/uploads/2022/11/決定_高音_レトロ_その２.mp3
+
+重新開始的按鈕音效
+https://tnosite.com/wp-content/uploads/2022/11/決定_高音_レトロ_その２.mp3
+
+遊戲主背景音樂 (bgm_main)
+https://tnosite.com/wp-content/uploads/2023/10/必勝.mp3
+
+
+過關慶祝音樂 (bgm_victory)
+https://tnosite.com/wp-content/uploads/2022/11/レベルアップ_ファンファーレ_レトロ_その１.mp3
+
+閃過障礙物得分音效 (sfx_score)
+https://tnosite.com/wp-content/uploads/2022/11/アイテム入手_レトロ_その１.mp3
+
+
+失敗 Jump Scare 恐怖音效 (sfx_jumpscare)
+https://tnosite.com/wp-content/uploads/2022/11/全滅_レトロ_その１.mp3
